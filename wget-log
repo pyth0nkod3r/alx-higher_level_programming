@@ -1,0 +1,14 @@
+HTTP request sent, awaiting response... Read error (The request is invalid.) in headers.
+Retrying.
+
+--2023-12-19 16:06:29--  (try: 3)  https://trunk.io/releases/latest
+Connecting to trunk.io (trunk.io)|99.86.114.72|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 512 [binary/octet-stream]
+Saving to: ‘/home/macmkboy/.cache/trunk/cli/tmp.KLDDlrV9Ko/launcher/latest’
+
+     0K                                                       100% 26.1K=0.02s
+
+utime(/home/macmkboy/.cache/trunk/cli/tmp.KLDDlrV9Ko/launcher/latest): No such file or directory
+2023-12-19 16:07:08 (26.1 KB/s) - ‘/home/macmkboy/.cache/trunk/cli/tmp.KLDDlrV9Ko/launcher/latest’ saved [512/512]
+
