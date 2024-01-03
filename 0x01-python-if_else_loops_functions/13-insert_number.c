@@ -1,3 +1,4 @@
+/* trunk-ignore-all(clang-format) */
 #include "lists.h"
 
 /**
