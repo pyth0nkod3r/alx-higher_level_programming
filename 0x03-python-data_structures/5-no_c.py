@@ -10,4 +10,3 @@ def no_c(my_string):
     for element in word:
         new_str += element
     return element
-        
